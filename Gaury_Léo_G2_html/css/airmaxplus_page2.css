@@ -1,0 +1,137 @@
+.d-flex{
+    display: flex;
+}
+
+.align-items-center {
+    align-items: center;
+}
+
+ul{
+    text-decoration: none;
+    list-style-type: none;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+ul li img{
+    height: 70px;
+}
+
+ul{
+    gap: 15px;
+    display: flex;
+}
+
+span{
+    margin-right: 15px;
+}
+
+main section div img{
+
+    display: flex;
+    height: 250px;
+    justify-content: flex-start;
+}
+
+main section div{
+    display: flex;
+    margin-left: 10px;
+}
+
+main section div p{
+
+    font-size: 35px;
+    margin-left: 50px;
+}
+
+#banderose{
+    background-color: deeppink;
+}
+
+main #TN1{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 35px;
+    height: 250px;
+    width: 100%;
+}
+
+.TN1 img{
+    width: 100%;
+    margin-right: 40px;
+}
+
+.TN1:hover{
+    transform: scale(1.1);
+    transition-duration: 1s;
+}
+
+.TN2 img{
+    width: 100%;
+    margin-left: 40px;
+}
+
+.TN2:hover{
+    transform: scale(1.1);
+    transition-duration: 1s;
+}
+
+main #nom1et2 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    margin-left: 300px;
+    margin-right: 350px;
+}
+
+
+main #TN2 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+    height: 250px;
+    width: 300%;
+}
+
+.TN3et4 img{
+    justify-content: space-between;
+}
+
+.TN3{
+    margin-left: 50px;
+    width: 60%;
+}
+
+.TN3:hover{
+    transform: scale(1.1);
+    transition-duration: 1s;
+}
+
+.TN4{
+    margin-left: 80px;
+    width: 100%;
+}
+
+.TN4:hover{
+    transform: scale(1.1);
+    transition-duration: 1s;
+}
+
+main #nom3et4{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    margin-left: 300px;
+    margin-right: 320px;
+}
+
+.pages{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
